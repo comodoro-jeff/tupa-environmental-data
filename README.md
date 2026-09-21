@@ -115,14 +115,14 @@ ThingsBoard
 
 ```text
 .
-├── README.md
-├── notebooks/
-│   ├── temperature_forecasting.ipynb
-│   ├── humidity_forecasting.ipynb
-│   └── radiation_forecasting.ipynb
 ├── embedded/
-    ├── sensor_dht11.ino
-    └── thingsboard_mqtt.ino
+│   ├── sensor_dht11.ino
+│   └── thingsboard_mqtt.ino
+├── notebooks/
+│   ├── humidity_forecasting.ipynb
+│   ├── radiation_forecasting.ipynb
+│   └── temperature_forecasting.ipynb 
+└── README.md
 ```
 
 ## Execução
