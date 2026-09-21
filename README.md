@@ -116,16 +116,13 @@ ThingsBoard
 ```text
 .
 ├── README.md
-├── LICENSE
 ├── notebooks/
 │   ├── temperature_forecasting.ipynb
 │   ├── humidity_forecasting.ipynb
 │   └── radiation_forecasting.ipynb
 ├── embedded/
-│   ├── sensor_dht11.ino
-│   └── thingsboard_mqtt.ino
-└── assets/
-    └── README.md
+    ├── sensor_dht11.ino
+    └── thingsboard_mqtt.ino
 ```
 
 ## Execução
@@ -174,9 +171,3 @@ Entre as possibilidades de evolução do projeto estão:
 Projeto desenvolvido em 2022 para a disciplina de Projetos de Engenharia 2.
 
 A proposta consistia na criação de uma pequena startup acadêmica voltada à coleta, tratamento e previsão de dados ambientais, combinando conceitos de análise de dados, ciência de dados, IoT, microcontroladores e Machine Learning.
-
-O projeto foi desenvolvido individualmente.
-
-## Autor
-
-**Jefferson Dias Ribeiro**
