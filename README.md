@@ -2,7 +2,7 @@
 
 Prova de conceito desenvolvida para a disciplina de Projetos de Engenharia 2 com o objetivo de explorar a integração entre coleta de dados ambientais, Internet das Coisas (IoT) e modelagem preditiva de séries temporais.
 
-## Sobre o projeto
+## Sobre o Projeto
 
 O projeto consistiu na concepção de uma pequena startup acadêmica voltada à coleta, tratamento e previsão de dados ambientais.
 
