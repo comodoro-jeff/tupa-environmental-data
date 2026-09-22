@@ -111,7 +111,7 @@ ThingsBoard
 * ThingsBoard
 * APIs e integração de dados
 
-## Estrutura do projeto
+## Estrutura do Projeto
 
 ```text
 .
@@ -149,7 +149,7 @@ Os dados originais utilizados nos experimentos não estão incluídos neste repo
 
 Os modelos e resultados apresentados representam o estado do projeto no período de seu desenvolvimento e não foram posteriormente reavaliados em um ambiente de produção.
 
-## Possíveis melhorias
+## Possíveis Melhorias
 
 Entre as possibilidades de evolução do projeto estão:
 
@@ -166,7 +166,7 @@ Entre as possibilidades de evolução do projeto estão:
 * integração mais estruturada entre os dados históricos e os dados coletados pelo sensor;
 * implementação de uma arquitetura IoT mais escalável.
 
-## Contexto acadêmico
+## Contexto Acadêmico
 
 Projeto desenvolvido em 2022 para a disciplina de Projetos de Engenharia 2.
 
