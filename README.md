@@ -35,7 +35,7 @@ Os notebooks preservados no projeto realizam etapas de preparação dos dados, s
 
 Os dados originais utilizados durante o desenvolvimento não estão incluídos neste repositório.
 
-## Modelagem preditiva
+## Modelagem Preditiva
 
 Foram desenvolvidos notebooks independentes para realizar previsões de diferentes variáveis ambientais:
 
@@ -66,7 +66,7 @@ Previsão
 Avaliação dos resultados
 ```
 
-## IoT e coleta local
+## IoT e Coleta Local
 
 Paralelamente à etapa de modelagem, foi desenvolvido um protótipo de coleta local utilizando um sensor DHT11 conectado a um microcontrolador.
 
